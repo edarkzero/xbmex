@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+
 <addon id="plugin.video.A1-LIVE-TV" name="[COLOR skyblue]A1 LIVE TV[/COLOR]" version="1.1.0" provider-name="white Night">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -117,4 +118,5 @@
                 <platform>all</platform>
         </extension>
 </addon>
+
 </addons>
